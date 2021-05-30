@@ -1,2 +1,2 @@
 # hicGraph
-It's an R package for visualizing Hi-C data
+hicGraph is an R package for visualizing Hi-C data
