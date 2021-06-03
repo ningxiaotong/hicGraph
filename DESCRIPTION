@@ -1,9 +1,12 @@
 Package: hicGraph
 Type: Package
-Title: What the package does (short line)
+Title: Hi-C data visualization
 Version: 1.0
 Date: 2021-06-03
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Ning Xiaotong
+Maintainer: Ning Xiaotong <1799647253@qq.com>
+Description: The package can be used to visualize Hi-C data, including heatmap and network. It also adds the visualization of the track plot to ChIP-Seq data or RNA-Seq data.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
