@@ -1,5 +1,6 @@
 # hicGraph
-hicGraph is an R package for visualizing Hi-C data
+hicGraph is an R package for visualizing Hi-C data and ChIP-Seq data.
+So far, the visualizations that hicGraph can achieve include heatmap and network graph for Hi-C data, and track graph of ChIP-Seq data
 
 
 
