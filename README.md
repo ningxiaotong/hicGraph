@@ -52,6 +52,10 @@ run_app()
 Please click [here](https://pan.baidu.com/s/1i5XEsVbNe-1YUh3K512IzQ) to download the test data.
 The extraction code is `sf2g`.
 
+# Demonstration of operation
+You can click [here](https://pan.baidu.com/s/1ioQlEU04vK3cifSkiYARzQ) to view a demo of the operation.
+The extraction code is `8ca9`.
+
 
 # Note
 When you Input your all input data, hicGraph needs about 4-5 hours to plot the graphs. Please wait paiently.
